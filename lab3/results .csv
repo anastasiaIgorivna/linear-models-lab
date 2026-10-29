@@ -1,0 +1,5 @@
+﻿type,model,iteration,train_loss,val_loss,accuracy,inference_seconds,parameters
+mini_gpt,minigpt_v1,499.0,4.451213359832764,4.469009876251221,,,
+mini_gpt,minigpt_v2,2999.0,4.787508964538574,4.79299783706665,,,
+sentiment_analysis,lxyuan/distilbert-base-multilingual-cased-sentiments-student,,,,0.6,0.109,135326979.0
+sentiment_analysis,nlptown/bert-base-multilingual-uncased-sentiment,,,,0.95,0.064,167360261.0
